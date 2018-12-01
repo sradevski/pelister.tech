@@ -180,7 +180,7 @@ span, strong, b {
 
 .cover-container {
   max-height: 100vh;
-  min-height: 500px;
+  min-height: 600px;
   width: 100%;
   background: linear-gradient(to top, #4b79a1, #283e51);
   color: white;
