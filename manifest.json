@@ -1,0 +1,20 @@
+{
+  "short_name": "Pelister.tech",
+  "name": "Pelister.tech",
+  "icons": [
+    {
+      "src": "/assets/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/logo1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "white",
+  "theme_color": "#1b5a15",
+  "display": "standalone"
+}
