@@ -171,6 +171,7 @@ span, strong, b {
   }
   .header-title {
     font-size: 3.5rem;
+    margin: 2.5rem 2rem;
   }
 
   .section {
@@ -180,7 +181,7 @@ span, strong, b {
 
 .cover-container {
   max-height: 100vh;
-  min-height: 600px;
+  min-height: 500px;
   width: 100%;
   background: linear-gradient(to top, #4b79a1, #283e51);
   color: white;
@@ -227,6 +228,7 @@ span, strong, b {
   align-items: center;
   justify-content: center;
   padding: 2rem;
+  z-index: 5;
 }
 
 .light {
@@ -235,7 +237,7 @@ span, strong, b {
 }
 
 .dark {
-  background-color: #146779;
+  background-color: #69cac2;
   color: white;
 }
 
