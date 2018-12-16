@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="wine" unicode="&#xe800;" d="M580 484q0-106-68-187t-171-98q0-1 1-2t1-3l0-209 51 0q21 0 37-15t15-36-15-37-37-16l-208 0q-21 0-37 16t-15 37 15 36 37 15l52 0 0 209q0 1 0 3t1 2q-103 18-171 98t-68 187q0 59 13 133t22 115 14 50q5 16 19 26t31 11l382 0q18 0 32-11t18-26q4-9 14-50t23-115 12-133z m-290-186q69 0 121 44t62 112l-365 0q10-67 61-112t121-44z m-185 209l370 0q-5 98-34 208l-302 0q-29-110-34-208z" horiz-adv-x="580" />
+
+<glyph glyph-name="calendar-times-o" unicode="&#xf273;" d="M620 77l-26-25q-5-6-12-6t-13 6l-105 105-105-105q-5-6-12-6t-13 6l-25 25q-5 5-5 12t5 13l105 105-105 105q-5 6-5 13t5 12l25 26q5 5 13 5t12-5l105-105 105 105q6 5 13 5t12-5l26-26q5-5 5-12t-5-13l-105-105 105-105q5-5 5-13t-5-12z m-549-156h786v572h-786v-572z m215 679v161q0 8-5 13t-13 5h-36q-8 0-13-5t-5-13v-161q0-8 5-13t13-5h36q8 0 13 5t5 13z m428 0v161q0 8-5 13t-13 5h-35q-8 0-13-5t-5-13v-161q0-8 5-13t13-5h35q8 0 13 5t5 13z m215 36v-715q0-29-22-50t-50-21h-786q-29 0-50 21t-21 50v715q0 29 21 50t50 21h72v54q0 37 26 63t63 26h36q37 0 63-26t26-63v-54h214v54q0 37 27 63t63 26h35q37 0 64-26t26-63v-54h71q29 0 50-21t22-50z" horiz-adv-x="1000" />
+
+<glyph glyph-name="map-o" unicode="&#xf278;" d="M1127 844q16-11 16-30v-785q0-12-6-20t-16-13l-358-143q-13-6-26 0l-344 137-344-137q-5-3-13-3-11 0-20 6-16 11-16 30v785q0 12 6 21t16 12l358 143q13 6 26 0l344-137 344 137q18 8 33-3z m-716-75v-709l321-129v709z m-340-122v-708l304 121v709z m1000-594v708l-303-121v-709z" horiz-adv-x="1142.9" />
+</font>
+</defs>
+</svg>

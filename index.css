@@ -8,6 +8,41 @@
     url('assets/fonts/adelle.svg') format('svg')
 }
 
+@font-face {
+  font-family: 'fontello';
+  src: url('assets/fonts/fontello.eot?24210782');
+  src: url('assets/fonts/fontello.eot?24210782#iefix') format('embedded-opentype'),
+       url('assets/fonts/fontello.woff2?24210782') format('woff2'),
+       url('assets/fonts/fontello.woff?24210782') format('woff'),
+       url('assets/fonts/fontello.ttf?24210782') format('truetype'),
+       url('assets/fonts/fontello.svg?24210782#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  font-variant: normal;
+  text-transform: none;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-wine:before { content: '\e800'; }
+.icon-calendar-times-o:before { content: '\f273'; } 
+.icon-map-o:before { content: '\f278'; } 
+
 /* Normalize.css */
 html {
   line-height: 1.15;
@@ -134,11 +169,11 @@ body {
 }
 
 a {
-  color: #1b5a15
+  color: #69cac2
 }
 
 a:hover {
-  color: #0b4207
+  color: #3caaa1
 }
 
 span, strong, b {
@@ -238,6 +273,16 @@ span, strong, b {
 
 .dark {
   background-color: #4b79a1;
+  color: white;
+}
+
+.spacing {
+  margin: 0.7rem 0;
+  font-size: 1.6rem;
+}
+
+.icon {
+  height: 32px;
   color: white;
 }
 
